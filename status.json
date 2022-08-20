@@ -2,8 +2,13 @@
     "status": "success",
     "online": true,
     "players": {
-        "max": 400,
-        "now": 12
+        "max": 200,
+        "now": 417
     },
-    "last_updated": 200822
+    "last_updated": 1122200822,
+    "server": {
+        "name": "Velocity 1.7.2-1.19.2",
+        "protocol": 4
+    },
+    "motd": "0"
 }
