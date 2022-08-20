@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "online": true,
+    "players": {
+        "max": 400,
+        "now": 12
+    },
+    "last_updated": 200822
+}
