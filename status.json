@@ -3,12 +3,7 @@
     "online": true,
     "players": {
         "max": 20,
-        "now": 0
+        "now": 1
     },
-    "last_updated": 1122200822,
-    "server": {
-        "name": "Velocity 1.7.2-1.19.2",
-        "protocol": 4
-    },
-    "motd": "0"
+    "last_updated": 1122200822
 }
