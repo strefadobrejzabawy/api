@@ -5,5 +5,10 @@
         "max": 20,
         "now": 1
     },
-    "last_updated": 1122200822
+    "last_updated": 1212200822,
+    "server": {
+        "name": "SDZ - MC Server",
+        "protocol": 4
+    },
+    "motd": "Soon.."
 }
