@@ -3,7 +3,7 @@
     "online": true,
     "players": {
         "max": 20,
-        "now": 1
+        "now": 0
     },
     "last_updated": 1212200822,
     "server": {
