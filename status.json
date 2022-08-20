@@ -2,8 +2,8 @@
     "status": "success",
     "online": true,
     "players": {
-        "max": 200,
-        "now": 417
+        "max": 20,
+        "now": 0
     },
     "last_updated": 1122200822,
     "server": {
